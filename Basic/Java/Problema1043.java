@@ -22,7 +22,7 @@ Saída
 O resultado deve ser apresentado com uma casa decimal.
 */
 
-public class Main{
+public class Problema1043{
     public static void main(String args[]){
 
         Scanner entrada = new Scanner(System.in);

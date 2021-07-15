@@ -16,7 +16,7 @@ A saída deve conter uma das mensagens conforme descrito acima.
 */
 
 
-public class Problema1042{
+public class Problema1044{
     public static void main(String args[]){
 
         Scanner entrada = new Scanner(System.in);
@@ -28,12 +28,12 @@ public class Problema1042{
 
         if (a > b){
             while ( a * contador != b || a * contador < b){
-                contador += 1
+                contador += 1;
             } if ( a * contador == b){
                 System.out.println("Sao Multiplos");
 
             } else {
-                System.out.println('Não sao Multiplos')
+                System.out.println("Não sao Multiplos");
             }
         }
 

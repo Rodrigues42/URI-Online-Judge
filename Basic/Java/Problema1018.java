@@ -21,7 +21,7 @@ contrário seu programa apresentará a mensagem:
  “Presentation Error”.
 */
 
-public class Problema 1018 {
+public class Problema1018 {
  
     public static void main(String[] args) throws IOException {
 

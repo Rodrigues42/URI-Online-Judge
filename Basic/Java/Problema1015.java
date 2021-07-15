@@ -22,7 +22,7 @@ Calcule e imprima o valor da distância segundo a
 fórmula fornecida, com 4 casas após o ponto decimal.
 */
 
-public class Problema1005 {
+public class Problema1015 {
  
     public static void main(String[] args) throws IOException {
 
